@@ -1,0 +1,24 @@
+/git/target
+
+/git/nbproject
+
+
+
+# Maven
+
+
+log/
+
+target/
+
+
+# 
+
+Intellij
+
+
+*.idea/
+
+*.iml
+
+*.iws
